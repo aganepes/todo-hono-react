@@ -1,0 +1,14 @@
+.cont_input{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid salmon;
+    padding-bottom: 20px;
+}
+.cont_input input[type='text']{
+    width: 70%;
+    height: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
